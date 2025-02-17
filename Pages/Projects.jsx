@@ -1,5 +1,5 @@
 import React from 'react';
-import CardSection from '../components/CardSection';
+import CardSection from '../Components/CardSection';
 import NavBar from '../components/NavBar';
 
 const Blog = () => {
