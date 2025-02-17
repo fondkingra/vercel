@@ -1,6 +1,6 @@
 import React from 'react';
 import CardSection from '../Components/CardSection';
-import NavBar from '../components/NavBar';
+import NavBar from '../Components/NavBar';
 
 const Blog = () => {
   return (
